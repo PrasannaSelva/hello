@@ -9,7 +9,7 @@ var a;
 var a=10;
 console.log(a);
 console.log('ash');
-console.log('and');
+
 
 x= a+a;
 var x;
