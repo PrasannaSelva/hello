@@ -8,8 +8,7 @@ var a;
 //a=10;
 var a=10;
 console.log(a);
-
-
+console.log('ash');
 console.log('and');
 
 x= a+a;
